@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/deandevl/deandevl.r-universe.dev
 	branch = HEAD
-[submodule "RcensusPkg"]
-	path = RcensusPkg
-	url = https://github.com/deandevl/RcensusPkg
 [submodule "RplotterPkg"]
 	path = RplotterPkg
 	url = https://github.com/deandevl/RplotterPkg
-[submodule "RregressPkg"]
-	path = RregressPkg
-	url = https://github.com/deandevl/RregressPkg
